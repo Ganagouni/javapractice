@@ -16,6 +16,7 @@ System.out.println("The Entered number is negative"+" "+num);
 else
 {
 System.out.println(num+"Number entered is   neither positive nor negeative");
+System.out.println(num+"Number entered is   neither positive nor negeative");
 }
 }
 }
